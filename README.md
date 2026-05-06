@@ -35,4 +35,4 @@ A clean, minimal BMI calculator built with vanilla HTML, CSS and JavaScript. No 
 
 ## Author
 
-**Jakub Jalčák** — [jakubjalcak1.github.io](https://jakubjalcak1.github.io)
+**Jakub Jalčak** — [jakubjalcak1.github.io](https://jakubjalcak1.github.io)
